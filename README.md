@@ -16,6 +16,14 @@
 
 > 🔒 Source code bersifat **private**. Repo ini adalah etalase project: deskripsi, fitur, dan tangkapan layar.
 
+<p align="center">
+  <a href="https://kmpery-id.github.io/undangan-pernikahan-digital/?to=bpk.budi%20santoso"><img src="https://img.shields.io/badge/▶_Coba_Demo-Buka_Undangan-2ea44f?style=for-the-badge" alt="Coba Demo"></a>
+</p>
+
+> 💡 **Demo berjalan sepenuhnya di browser**: RSVP dan ucapan tamu disimpan di browser Anda, tanpa server.
+> Nama tamu diambil dari tautan, contoh: [`?to=bpk.budi santoso`](https://kmpery-id.github.io/undangan-pernikahan-digital/?to=bpk.budi%20santoso) menampilkan "Bpk. Budi Santoso" (awalan: `bpk`, `ibu`, `sdra`, `sdri`).
+> Pada demo, nomor rekening disamarkan dan musik latar dinonaktifkan.
+
 ![Tampilan desktop](screenshots/desktop.png)
 
 ## Fitur Utama
